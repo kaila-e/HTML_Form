@@ -1,0 +1,13 @@
+body {
+    padding: 10px;
+  }
+  
+  input {
+    margin: auto;
+    width: 350px;
+  }
+
+  textarea {
+    width: 350px;
+    height: 100px;
+  }
